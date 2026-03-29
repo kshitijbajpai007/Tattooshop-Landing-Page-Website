@@ -1,0 +1,409 @@
+{
+  "studioName": "Black Meridian",
+  "studioSub": "Tattoo Studio",
+  "location": "Shoreditch, London E1",
+  "established": "2014",
+  "tagline": "\"Wear your meridian.\"",
+  "subTagline": "Bespoke Custom Tattoo Art",
+  "accent": "#C9A227",
+  "meta": {
+    "title": "Black Meridian — Bespoke Tattoo | Shoreditch, London",
+    "description": "London's most considered custom tattoo studio..."
+  },
+  "hero": {
+    "eyebrow": "— Bespoke Custom Tattoo Art",
+    "image": "https://images.unsplash.com/photo-1611501275019-9b5cda994e8d?w=1920&q=88",
+    "ctaPrimary": "Book a Consultation",
+    "ctaSecondary": "View the Work"
+  },
+  "marquee": [
+    "Neo-Traditional",
+    "Japanese Irezumi",
+    "Fine Line",
+    "Ignorant Style",
+    "Blackwork",
+    "Botanical"
+  ],
+  "stats": [
+    {
+      "value": "12",
+      "suffix": "+",
+      "label": "Years Open",
+      "decimal": false
+    },
+    {
+      "value": "6000",
+      "suffix": "+",
+      "label": "Pieces Done",
+      "decimal": false
+    },
+    {
+      "value": "4",
+      "suffix": "",
+      "label": "Resident Artists",
+      "decimal": false
+    },
+    {
+      "value": "5",
+      "suffix": "★",
+      "label": "Google Rating",
+      "decimal": false
+    }
+  ],
+  "featureBanner": "✦ GDPR-Compliant Booking · Transparent Pricing · Deposit-Secured Sessions",
+  "about": {
+    "eyebrow": "— Our Story",
+    "heading": "Art earned,\nnot applied.",
+    "paragraphs": [
+      "Black Meridian opened in Shoreditch in 2014 on a single belief: that every tattoo should be designed from zero. No flash pulled from a binder. No style forced on a body that doesn't suit it.",
+      "Our artists draw across neo-traditional, Japanese irezumi, fine line, and deliberate ignorant work. The common thread is intention — every piece is a conversation between the artist and the person wearing it for the rest of their life.",
+      "We operate under strict medical-grade hygiene protocols and are fully ICO-registered for GDPR compliance. Your data, like our work, is handled with care."
+    ],
+    "image": "/assets/artist.png",
+    "caption": "\"A great tattoo is a negotiation between permanence and beauty.\"",
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years Open"
+      },
+      {
+        "value": "6K+",
+        "label": "Pieces Done"
+      },
+      {
+        "value": "4",
+        "label": "Artists"
+      }
+    ]
+  },
+  "process": [
+    {
+      "icon": "◈",
+      "num": "01",
+      "title": "Free Consultation",
+      "desc": "Tell us what you're thinking..."
+    },
+    {
+      "icon": "◉",
+      "num": "02",
+      "title": "Design & Deposit",
+      "desc": "Your artist creates the design..."
+    },
+    {
+      "icon": "✦",
+      "num": "03",
+      "title": "Your Session",
+      "desc": "Arrive, settle in, and let the work happen..."
+    }
+  ],
+  "portfolio": {
+    "categories": [
+      "All Work",
+      "Neo-Traditional",
+      "Japanese",
+      "Fine Line",
+      "Ignorant"
+    ],
+    "items": [
+      {
+        "img": "https://www.cbinktattoo.com.au/app/uploads/2024/05/Rhys-Tattoo-Artist-Japanese-Neo-Traditional-Full-Sleeve-Dragon-Fish-Tattoo.jpg",
+        "label": "Neo-Trad Sleeve",
+        "cat": "neo-traditional"
+      },
+      {
+        "img": "https://preview.redd.it/black-and-grey-realism-3-years-ago-and-now-v0-ed4a152ipwpb1.jpg?auto=webp&s=cddd6f4f33660186af1bc91c27a22c2985775777",
+        "label": "Portrait Realism",
+        "cat": "japanese"
+      },
+      {
+        "img": "https://www.edgemagazine.net/wp-content/uploads/2020/08/forte.jpg",
+        "label": "Sacred Geometry",
+        "cat": "fine-line"
+      },
+      {
+        "img": "https://preview.redd.it/botanical-fine-line-tattoo-after-almost-2-years-v0-nrb34i1d0bnc1.jpg?width=1080&crop=smart&auto=webp&s=0f51ad8856abfb7c718f315d68e6d5361977d70c",
+        "label": "Botanical Fine Line",
+        "cat": "fine-line"
+      },
+      {
+        "img": "https://i.etsystatic.com/11461360/r/il/0ed96f/2473474494/il_fullxfull.2473474494_5ifi.jpg",
+        "label": "Koi & Waves",
+        "cat": "japanese"
+      },
+      {
+        "img": "https://samtattooindia.com/wp-content/uploads/2025/01/DSC_7566.jpg",
+        "label": "Mandala Blackwork",
+        "cat": "neo-traditional"
+      },
+      {
+        "img": "https://www.byrdie.com/thmb/QSPFw_hRnMXnAGbuOzE8MYDMSz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/signaturetattoo-9da6c4cef94b4d5ebc85daa4112640fb.png",
+        "label": "Minimal Script",
+        "cat": "ignorant"
+      },
+      {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-2vybyJ0UEeBQMat-nccj0RVAlE9RMqM6w&s",
+        "label": "Animal Realism",
+        "cat": "japanese"
+      },
+      {
+        "img": "https://cdn.prod.website-files.com/6685cad24292c230f9a20517/67983620bd6666b8abe699b6_5.jpg",
+        "label": "Abstract Piece",
+        "cat": "ignorant"
+      }
+    ]
+  },
+  "styles": [
+    {
+      "num": "01",
+      "name": "Neo-Traditional",
+      "desc": "Bold outlines, rich palette, narrative subject matter...",
+      "img": "https://images.squarespace-cdn.com/content/v1/64d8066895896102bbc9f7c5/a9717b6b-63e9-41c5-a235-341418bab569/panther_heart_neotrad_lil_web.png"
+    },
+    {
+      "num": "02",
+      "name": "Japanese Irezumi",
+      "desc": "Centuries of tradition rendered in bold composition...",
+      "img": "https://static1.squarespace.com/static/66cf55ff6a86ea716f859041/66db8b0be01c95157ae95b42/680a68d071f3a8541ee51ea2/1745872672383/Irezumi+tattoos.jpg?format=1500w"
+    },
+    {
+      "num": "03",
+      "name": "Fine Line",
+      "desc": "Single-needle precision. Botanicals and geometry...",
+      "img": "https://preview.redd.it/botanical-fine-line-tattoo-after-almost-2-years-v0-nrb34i1d0bnc1.jpg?width=1080&crop=smart&auto=webp&s=0f51ad8856abfb7c718f315d68e6d5361977d70c"
+    },
+    {
+      "num": "04",
+      "name": "Ignorant Style",
+      "desc": "Deliberately naïve, bold, and immediate...",
+      "img": "https://inkedmag.com/wp-content/uploads/2023/02/ignorant-copy-1.jpg"
+    }
+  ],
+  "services": [
+    {
+      "icon": "◈",
+      "title": "Custom Tattooing",
+      "desc": "Fully bespoke designs drawn from scratch. Nothing off a binder. Every piece conceived for the person wearing it."
+    },
+    {
+      "icon": "◉",
+      "title": "Cover-Up Work",
+      "desc": "Transform existing work into something you're proud of. Intelligent cover-up strategies using shadow and composition."
+    },
+    {
+      "icon": "✦",
+      "title": "Touch-Ups",
+      "desc": "Faded, blown-out, or in need of refresh? We restore existing pieces to full clarity and vibrancy."
+    },
+    {
+      "icon": "◐",
+      "title": "Consultations",
+      "desc": "Free 30-minute consultations. No obligation. We'll tell you exactly what's achievable and quote you honestly."
+    },
+    {
+      "icon": "⬡",
+      "title": "Flash Days",
+      "desc": "Monthly flash events — pre-drawn designs at set prices. Walk in, choose, leave with ink the same day."
+    },
+    {
+      "icon": "◫",
+      "title": "Guest Artists",
+      "desc": "We regularly host international guest artists. Check the booking calendar for upcoming dates and unique styles."
+    }
+  ],
+  "artists": [
+    {
+      "name": "Ravi Saunders",
+      "spec": "Neo-Traditional & Japanese",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "ig": "@ravisaunders.ink",
+      "igUrl": "#",
+      "bio": "Specializing in large-scale illustrative work that blends traditional bold lines with modern composition."
+    },
+    {
+      "name": "Cleo Marsh",
+      "spec": "Fine Line & Botanical",
+      "photo": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=600&q=80",
+      "ig": "@cleomarsh.tattoo",
+      "igUrl": "#",
+      "bio": "Known for delicate, single-needle precision and organic botanical flow that complements the body's natural curves."
+    },
+    {
+      "name": "Juno Bell",
+      "spec": "Ignorant & Blackwork",
+      "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&q=80",
+      "ig": "@junobell.ink",
+      "igUrl": "#",
+      "bio": "Minimalist, immediate, and provocative. Juno's work explores the 'ignorant style' through high-contrast blackwork."
+    }
+  ],
+  "gallery": [
+    {
+      "img": "https://i.pinimg.com/736x/77/8c/b1/778cb1fa3a3adc07fcd3ab7cef1201cf.jpg",
+      "w": "360px",
+      "label": "Studio Interior"
+    },
+    {
+      "img": "/assets/tools.png",
+      "label": "Our Tools",
+      "w": "340px"
+    },
+    {
+      "img": "https://images.pexels.com/photos/7005729/pexels-photo-7005729.jpeg",
+      "w": "420px",
+      "label": "Artist at Work"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1611501275019-9b5cda994e8d?w=600&q=80",
+      "w": "280px",
+      "label": "Flash Sheets"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/5c66a6b77788975c32418dc6/1708730954144-XN1431UOM4FKERXOIW4X/shop+inside+%281%29.jpg",
+      "w": "320px",
+      "label": "The Space"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Ravi's neo-trad sleeve is the most considered work I've ever seen. Three sessions, zero compromise.",
+      "name": "James H.",
+      "role": "Full Sleeve, Neo-Traditional"
+    },
+    {
+      "quote": "Cleo's fine line botanical is so delicate it looks like someone drew on my skin with a crow feather.",
+      "name": "Priya M.",
+      "role": "Botanical Fine Line"
+    },
+    {
+      "quote": "The consultation alone was worth the journey from Manchester. These people take the work seriously.",
+      "name": "Tom F.",
+      "role": "Japanese Back Piece"
+    },
+    {
+      "quote": "Juno's ignorant piece is the one that gets the most attention. Paradoxically, that feels right.",
+      "name": "Sara K.",
+      "role": "Ignorant Style"
+    }
+  ],
+  "booking": {
+    "eyebrow": "— Start Here",
+    "heading": "Book Your Session",
+    "sub": "Every great tattoo begins with a conversation. Fill out the form — we respond within 48 hours.",
+    "address": "14 Redchurch Street\nShoreditch, London E2 7DJ",
+    "phone": "+44 20 7946 0321",
+    "email": "studio@blackmeridian.co.uk",
+    "gdpr": true,
+    "gdprText": "I consent to my data being processed for booking purposes in accordance with UK GDPR."
+  },
+  "faq": [
+    {
+      "q": "How do I book?",
+      "a": "Fill out the form on this page with as much detail as possible..."
+    },
+    {
+      "q": "Do you offer walk-ins?",
+      "a": "We offer walk-ins for flash pieces on selected days..."
+    },
+    {
+      "q": "What's your deposit policy?",
+      "a": "A 20% deposit is required to secure your session..."
+    },
+    {
+      "q": "Is your studio GDPR compliant?",
+      "a": "Yes — we're registered with the ICO..."
+    },
+    {
+      "q": "How should I prepare?",
+      "a": "Sleep well the night before. Eat a proper meal 2 hours prior..."
+    },
+    {
+      "q": "Can I see my design before the session?",
+      "a": "Always. Your artist shares the design before the session begins..."
+    }
+  ],
+  "aftercare": [
+    {
+      "tab": "Tattoo Aftercare",
+      "steps": [
+        "Leave the initial wrap on for 2–4 hours, or as instructed by your artist.",
+        "Wash gently with fragrance-free antibacterial soap and lukewarm water. Pat dry — never rub.",
+        "Apply a thin layer of unscented moisturiser 2–3 times daily for the first two weeks.",
+        "Avoid soaking in baths, pools, or the sea for at least three weeks.",
+        "Keep out of direct sunlight during healing. Once healed, always apply SPF 50+ outdoors.",
+        "Do not scratch, pick, or peel flaking skin — let it shed naturally."
+      ]
+    },
+    {
+      "tab": "Piercing Aftercare",
+      "steps": [
+        "Wash hands before touching your piercing for any reason.",
+        "Clean twice daily with sterile saline wound wash.",
+        "Avoid rotating or removing jewellery during healing.",
+        "Do not use alcohol, hydrogen peroxide, or antiseptic sprays.",
+        "Lobe healing: 6–8 weeks. Cartilage: 6–12 months. Be patient."
+      ]
+    }
+  ],
+  "contact": {
+    "address": "14 Redchurch Street\nShoreditch, London E2 7DJ",
+    "phone": "+44 20 7946 0321",
+    "email": "studio@blackmeridian.co.uk",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18...",
+    "hours": [
+      {
+        "day": "Mon",
+        "time": "Closed",
+        "closed": true
+      },
+      {
+        "day": "Tue–Thu",
+        "time": "11:00 – 19:00",
+        "closed": false
+      },
+      {
+        "day": "Fri",
+        "time": "11:00 – 20:00",
+        "closed": false
+      },
+      {
+        "day": "Sat",
+        "time": "10:00 – 19:00",
+        "closed": false
+      },
+      {
+        "day": "Sun",
+        "time": "12:00 – 17:00",
+        "closed": false
+      }
+    ]
+  },
+  "footer": {
+    "copy": "Premium custom tattoo art. Est. 2014, London. ICO registered. GDPR compliant.",
+    "links": [
+      "About",
+      "Portfolio",
+      "Styles",
+      "Services",
+      "Artists",
+      "Book Appointment"
+    ],
+    "social": [
+      {
+        "label": "Instagram",
+        "url": "#"
+      },
+      {
+        "label": "Facebook",
+        "url": "#"
+      },
+      {
+        "label": "Pinterest",
+        "url": "#"
+      }
+    ]
+  },
+  "floatCta": {
+    "text": "Book Now",
+    "href": "#tc-booking"
+  }
+}
